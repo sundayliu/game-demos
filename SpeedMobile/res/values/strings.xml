@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QQ飞车</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">欢迎进入QQ飞车世界</string>
+    <string name="hello_one">第1个Activity</string>
+    <string name="hello_two">第2个Activity</string>
+    <string name="hello_three">第3个Activity</string>
+    <string name="hello_four">第4个Activity</string>
+    <string name="hello_five">第5个Activity</string>
+    <string name="hello_six">第6个Activity</string>
+    <string name="hello_seven">第7个Activity</string>
+    <string name="hello_eight">第8个Activity</string>
+    <string name="hello_nine">第9个Activity</string>
+    <string name="hello_ten">第10个Activity</string>
+    <string name="hello_eleven">第11个Activity</string>
+    <string name="btn_activiy_one">启动第2个Activity</string>
+    <string name="btn_activiy_two">启动第3个Activity</string>
+    <string name="btn_activiy_three">启动第4个Activity</string>
+    <string name="btn_activiy_four">启动第5个Activity</string>
+    <string name="btn_activiy_five">启动第6个Activity</string>
+    <string name="btn_activiy_six">启动第7个Activity</string>
+    <string name="btn_activiy_seven">启动第8个Activity</string>
+    <string name="btn_activiy_eight">启动第9个Activity</string>
+    <string name="btn_activiy_nine">启动第10个Activity</string>
+    <string name="btn_activiy_ten">启动第11个Activity</string>
+    <string name="btn_activiy_eleven">启动第1个Activity</string>
+    
+    <string name="btn_start_sgame">启动王者荣耀</string>
+    
+    <string name="title_activity_one">OneActivity</string>
+	<string name="title_activity_two">TwoActivity</string>
+	<string name="title_activity_three">ThreeActivity</string>
+	<string name="title_activity_four">FourActivity</string>
+	<string name="title_activity_five">FiveActivity</string>
+	<string name="title_activity_six">SixActivity</string>
+	<string name="title_activity_seven">SevenActivity</string>
+	<string name="title_activity_eight">EightActivity</string>
+	<string name="title_activity_nine">NineActivity</string>
+    <string name="title_activity_ten">TenActivity</string>
+    <string name="title_activity_eleven">ElevenActivity</string>
+
+</resources>

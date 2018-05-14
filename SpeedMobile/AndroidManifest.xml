@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tencent.tmgp.speedmobile"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:name="com.tencent.tmgp.speedmobile.SpeedApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.tencent.tmgp.speedmobile.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.tencent.tmgp.speedmobile.OneActivity" android:label="@string/title_activity_one" ></activity>
+		<activity android:name="com.tencent.tmgp.speedmobile.TwoActivity" android:label="@string/title_activity_two" ></activity>
+		<activity android:name="com.tencent.tmgp.speedmobile.ThreeActivity" android:label="@string/title_activity_three" ></activity>
+		<activity android:name="com.tencent.tmgp.speedmobile.FourActivity" android:label="@string/title_activity_four" ></activity>
+		<activity android:name="com.tencent.tmgp.speedmobile.FiveActivity" android:label="@string/title_activity_five" ></activity>
+		<activity android:name="com.tencent.tmgp.speedmobile.SixActivity" android:label="@string/title_activity_six" ></activity>
+		<activity android:name="com.tencent.tmgp.speedmobile.SevenActivity" android:label="@string/title_activity_seven" ></activity>
+		<activity android:name="com.tencent.tmgp.speedmobile.EightActivity" android:label="@string/title_activity_eight" ></activity>
+		<activity android:name="com.tencent.tmgp.speedmobile.NineActivity" android:label="@string/title_activity_nine" ></activity>
+        <activity android:name="com.tencent.tmgp.speedmobile.TenActivity" android:label="@string/title_activity_ten" ></activity>
+        <activity android:name="com.tencent.tmgp.speedmobile.ElevenActivity" android:label="@string/title_activity_eleven" ></activity>
+    </application>
+
+</manifest>
